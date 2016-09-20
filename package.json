@@ -1,0 +1,28 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Header parser for IP adress, language and software OS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkaluzny/header-parser.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "FreeCodeCamp"
+  ],
+  "author": "mrkaluzny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkaluzny/header-parser/issues"
+  },
+  "homepage": "https://github.com/mrkaluzny/header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
